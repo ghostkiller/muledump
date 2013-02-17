@@ -6,7 +6,6 @@ accounts = {
 // If your emails or passwords contain single quotes,
 // escape them with backslashes (\) like this: 'pass\'word'
 
-'giseonandrewkang123@gmail.com' 'pop123'
 
 
 }// don't delete this line!
